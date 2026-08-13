@@ -79,7 +79,9 @@ The chip supports a neural engine with 800 TOPS (1600 TOPS or 5 billion pixels p
 4x the peak performance compared to Gen 2 while being 2.5x more power efficient, and importantly, is designed for functional safety. Additionally with this new chip,
 the R2 is expected to have ~100 TOPS of edge AI compute, fully dedicated to in cabin experiences (vs. cloud-based today). A central pillar of the bull case for RIVN
 is its ability to become a technology supplier to the auto market, which it has already demonstrated with its VW JV, but could extend to its RAP1 and autonomy offerings
-with other OEMs.
+with other OEMs. We see the RIVN/UBER announcement as a positive development towards building traction with their autonomy platform and as an incremental source of
+capital as the company bridges its path to profitability. Similar to Rivian's JV with VW (covered by Javier Martinez), this deal procures funding from a well-capitalized
+partner investing heavily to develop autonomous driving technology
 
 4) Rivian Unified Intelligence and Virtual Assistant. Rivian also launched Rivian Unified Intelligence (RUI), a multi-modal and multi-LLM data foundation integrated
 across the company's full suite of operations, from the assembly line, to service infrastructure, to predictive maintenance. They unveiled the Rivian Assistant, a
