@@ -14,6 +14,29 @@ RIVN is developing a suite of hardware and software offerings to remain competit
 However, several risks remain around demand, potentially limiting data capture needed to reach higher levels
 of autonomy, and thus its path to profitability, driving our UW rating and $12 PT.
 
+--- Deliveries and Financial ---
+Strong Software and Service (S&S) growth expected in 2026, supported by VW JV and remarketing efforts. The company
+expects 60% growth in S&S revenue in 2026, coming in well ahead of our previous expectation for 9% Y/Y growth.
+This is driven by ~45% growth in revenue associated with its VW JV and ~79% growth from its service business
+(remarketing, autonomy, etc.).
+
+Despite stronger S&S growth, the midpoint of adj. EBITDA guidance came in below consensus driven by a combination
+of near-term gross margin pressure and elevated opex. Management emphasized near-term gross margin pressure as it
+ramps R2 production, with improvement expected in 4Q as R2 volumes scale. Additionally it expects growth in R&D and
+SG&A driven by investments in R2 and its autonomy offering. Our adj. EBITDA is largely unchanged at -$2.19bn vs. -$2.17bn
+previously but below -$1.95bn at the midpoint of guide.
+
+FCF burn worsens – Georgia on our minds… The company spoke to inventory build until R2 deliveries can ramp in
+2H – creating a working capital drag for the full year. Compounding this is the guide for increased capex – $2bn
+capex at midpoint for 2026, above our $1.6bn prior estimate driven by added store / service locations and ongoing spend
+at Normal. The company also indicated that capex in 2027 will grow Y/Y given increased investment in its Georgia mfg site.
+We revise lower our FCF estimates to -$4.8bn / -$4.7bn in 2026 / 2027 vs. -$4.2bn / -$3.4bn previously.
+
+Autonomy optionality is a core value proposition of BEVs – we remain concerned that Gen 3 not getting introduced until
+early 2027 is a significant risk for near-term demand. The decision to tier the hardware sensor suite introduces an 'upper-bound'
+to autonomous capabilities on earlier generation vehicles (incl. Gen 2 R2 selling from 2Q26-4Q26), potentially driving
+more customers to wait for the next gen product.
+
 --- AI & Autonomy Section ---
 Key takeaways
 Rivian's Gen 3 hardware architecture will launch in late 2026, featuring a multi-modal sensor suite with eleven cameras, five radars, and one LiDAR.
