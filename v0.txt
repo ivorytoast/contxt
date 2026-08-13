@@ -127,3 +127,4 @@ Greater than expected compute/AV/ADAS capex
 Events/Thoughts/Feeds
 Jan 15th: Validation Vehicles Built
 Jan 22nd: Fire breaks out at Illinois Plant
+March 12th: R2 pricing is out
