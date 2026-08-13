@@ -1,0 +1,81 @@
+From Morgan Stanley's
+
+Autonomy and AI Day: Charging Ahead but Key Risks Remain
+December 12, 2025 02:57 AM GMT
+
+---
+
+RIVN is developing a suite of hardware and software offerings to remain competitive in an Auto 2.0 world.
+However, several risks remain around demand, potentially limiting data capture needed to reach higher levels
+of autonomy, and thus its path to profitability, driving our UW rating and $12 PT.
+
+Key takeaways
+Rivian's Gen 3 hardware architecture will launch in late 2026, featuring a multi-modal sensor suite with eleven cameras, five radars, and one LiDAR.
+Rivian's new in-house custom silicon chip, RAP1, will support its Gen 3 Autonomy Computer, offering 4x peak performance and 2.5x power efficiency over Gen 2.
+Strong R2 adoption is likely a pre-requisite for a successful eyes-off/hands-off point-to-point autonomy offering.
+In-house chip development may increase capital intensity and pressure Rivian's path to profitability and FCF breakeven in the near-term.
+
+RIVN hosted their Autonomy and AI Day today, where management presented a suite of impressive next generation hardware and software offerings.
+Below we highlight our key takeaways.
+
+1) Enhanced Rivian Autonomy Platform. Rivian announced that by year-end it will roll out Universal Hands-Free driving on over 3.5m miles of
+road across North America (up from ~135k miles today), available for all existing R1 Gen 2 vehicles. In 2026 it plans to roll out point-to-point
+eyes-on, hands-off navigation, which will be followed by eyes-off, hands-off (no timeline provided but we estimate no earlier than 2027).
+And finally, Rivian will eventually offer personal L4 autonomy (i.e. no driver) - note that this level of autonomy could eventually be leveraged
+for robotaxi/rideshare, although it seems clear to us that in the near-to-medium term, driving adoption of personal autonomy will likely remain
+RIVN's core focus. Pricing for RIVN's Autonomy+ product starts at $2,500 (one-time) or $50/month, but we expect premium pricing for higher levels
+of autonomy (eyes-off/hands-off, full L4, etc).
+
+2) New Gen-3 hardware and software architecture launching in late 2026 with a multi-modal sensor suite. Rivian's Gen-3 autonomy hardware architecture
+includes eleven cameras providing 65 MP of data (10 additional MP above latest generation), five radars (unchanged number of radars, but improved functionality on R2),
+one LiDAR (new), and its new Gen 3 Autonomy Computer, which leverages its new in-house custom silicon chip. Its decision to embed LiDAR came somewhat
+as a surprise but management pointed to (i) enhanced long-distance and 3D perception, (ii) a significant reduction in LiDAR costs (from >$10k/unit to "several hundred"
+dollars today), and (iii) reduced size and ease of integration, as the main drivers of their decision to include LiDAR in the Gen-3 vehicle. Importantly,
+the additional LiDAR sensor has been engineered to sit flush on the front of the vehicle (near the top of the windshield), without any material impact to
+the aesthetics of the vehicle.
+
+3) New in-house custom silicon chip (RAP1). Rivian designed a custom silicon chip that will be used in its Gen 3 Autonomy Computer to support its autonomy platform.
+The chip supports a neural engine with 800 TOPS (1600 TOPS or 5 billion pixels per second of sensor data at the system level) and supports a Gen 3 computer that has
+4x the peak performance compared to Gen 2 while being 2.5x more power efficient, and importantly, is designed for functional safety. Additionally with this new chip,
+the R2 is expected to have ~100 TOPS of edge AI compute, fully dedicated to in cabin experiences (vs. cloud-based today).
+
+4) Rivian Unified Intelligence and Virtual Assistant. Rivian also launched Rivian Unified Intelligence (RUI), a multi-modal and multi-LLM data foundation integrated
+across the company's full suite of operations, from the assembly line, to service infrastructure, to predictive maintenance. They unveiled the Rivian Assistant, a
+next-gen voice interface built into the vehicle and integrated as an AI agent into in-vehicle applications such as driving modes and temperature preferences as well as
+consumer applications such as Google Calendar and text messaging. Rivian Assistant is targeted to launch in early 2026 on Gen 1 and Gen 2 R1 vehicles. While we commend
+the tech innovation unveiled today with RUI and Rivian Assistant, we believe the integration of agentic AI in the driving experience is somewhat table stakes to remain
+competitive with Tesla (which offers Grok in the car) as an EV manufacturer.
+
+Rivian laid out an impressive tech roadmap and is clearly positioning to remain an AI-leader in the auto industry. However, there are several risks over the next 12 months
+worth highlighting.
+
+Uncertain demand outlook for R2, particularly in light of an evolving hardware roadmap - it appears not all R2s will be equipped with LiDAR, potentially putting a tech
+ceiling and raising obsolescence risk of early R2 production.
+Ability to scale to eyes-off/hands-off appears dependent on strong R2 adoption for data capture.
+In-house chip development may require significant future R&D spend for future innovation, increasing the capital intensity of the business and potentially pressuring the
+path to profitability and FCF breakeven.
+
+We remain UW RIVN with a $12 price target ($5/shr core auto + $7/shr Software and Services). Our UW rating is underpinned by our expectation for weaker-than-expected R2
+demand into the teeth of an EV demand slowdown, potential Osborne effect of the R2 launch and now Gen-3 vehicle architecture launch on existing vehicle demand and residual
+values, and a prolonged path to profitability. While it's clear that Rivian as an organization, and the culture embedded in the firm, is tech-forward and positioning to
+compete in an Auto 2.0 world, the aforementioned risks drive our UW rating and $12 price target on a 12-month forward view.
+
+$12 PT reflects the SOTP of our DCF-derived Automotive and Software & Services segments. At our PT, we value each segment as follows:
+
+Automotive: $5/share - Assumes ~283k units in 2030, a 24% revenue CAGR (2025-2040), a ~6% exit EBIT margin and a 0% discount to the DCF.
+Software & Services: $5/share - Assumes ~775k/9.2mn fleet in 2030/2040, $129 blended Monthly ARPU (2040), 16% revenue CAGR (2025-2040), 66% discount
+Risks to Upside
+
+Higher installed base, attach rate, RPU on S&S
+Vertical integration leads to lower cost structure
+Increased penetration, new plants, capacity expansion
+Market share gains
+More EDV orders from AMZN
+More strategic partnerships/tech licensing
+Risks to Downside
+
+Market does not ascribe value to software biz
+Capital raises leads to dilution
+Execution mishaps
+Competition/volumes
+Greater than expected compute/AV/ADAS capex
