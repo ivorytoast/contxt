@@ -9,7 +9,15 @@ December 12, 2025 02:57 AM GMT
 RIVN ends off 2025 with strongly with margins exceeding expectations across both Auto and Software and Services.
 Delivery guide unsurprisingly came in better than MSe, however, we wait for commentary on model mix (R2 vs. R1) and
 visibility into demand given uncertainty post tax credit phase out and late-2026 Gen 3 autonomy integration, which we
-believe is a near-term risk to demand.
+believe is a near-term risk to demand. We remain cautious on near-term demand, but see RIVN as fairly well positioned
+to gain share once Gen 3 hardware and autonomy has been integrated into the vehicle.
+
+Management reiterated expectations for relatively stable R1 demand and limited cannibalization from the R2 launch,
+citing clear differentiation by price point, vehicle size, and customer use case.
+
+Rivian continues to see momentum in its commercial van business, driven primarily by Amazon, which management highlighted
+as increasingly focused on total cost of ownership advantages.
+
 RIVN is developing a suite of hardware and software offerings to remain competitive in an Auto 2.0 world.
 However, several risks remain around demand, potentially limiting data capture needed to reach higher levels
 of autonomy, and thus its path to profitability, driving our UW rating and $12 PT.
@@ -25,6 +33,9 @@ of near-term gross margin pressure and elevated opex. Management emphasized near
 ramps R2 production, with improvement expected in 4Q as R2 volumes scale. Additionally it expects growth in R&D and
 SG&A driven by investments in R2 and its autonomy offering. Our adj. EBITDA is largely unchanged at -$2.19bn vs. -$2.17bn
 previously but below -$1.95bn at the midpoint of guide.
+
+However, management reiterated confidence in exiting 2026 gross margin positive on R2 and at the company level,
+driven by improved vehicle economics and operating leverage, coupled with ~60% S&S growth.
 
 FCF burn worsens – Georgia on our minds… The company spoke to inventory build until R2 deliveries can ramp in
 2H – creating a working capital drag for the full year. Compounding this is the guide for increased capex – $2bn
@@ -47,8 +58,8 @@ In-house chip development may increase capital intensity and pressure Rivian's p
 RIVN hosted their Autonomy and AI Day today, where management presented a suite of impressive next generation hardware and software offerings.
 Below we highlight our key takeaways.
 
-1) Enhanced Rivian Autonomy Platform. Rivian announced that by year-end it will roll out Universal Hands-Free driving on over 3.5m miles of
-road across North America (up from ~135k miles today), available for all existing R1 Gen 2 vehicles. In 2026 it plans to roll out point-to-point
+1) Enhanced Rivian Autonomy Platform. Today, Rivian offers a hands free system ('UHF'), covering more than 3.5 million miles, with an initial
+eyes-on point to point offering targeted for later this year under the Autonomy+ subscription. In 2026 it plans to roll out point-to-point
 eyes-on, hands-off navigation, which will be followed by eyes-off, hands-off (no timeline provided but we estimate no earlier than 2027).
 And finally, Rivian will eventually offer personal L4 autonomy (i.e. no driver) - note that this level of autonomy could eventually be leveraged
 for robotaxi/rideshare, although it seems clear to us that in the near-to-medium term, driving adoption of personal autonomy will likely remain
@@ -66,7 +77,9 @@ the aesthetics of the vehicle.
 3) New in-house custom silicon chip (RAP1). Rivian designed a custom silicon chip that will be used in its Gen 3 Autonomy Computer to support its autonomy platform.
 The chip supports a neural engine with 800 TOPS (1600 TOPS or 5 billion pixels per second of sensor data at the system level) and supports a Gen 3 computer that has
 4x the peak performance compared to Gen 2 while being 2.5x more power efficient, and importantly, is designed for functional safety. Additionally with this new chip,
-the R2 is expected to have ~100 TOPS of edge AI compute, fully dedicated to in cabin experiences (vs. cloud-based today).
+the R2 is expected to have ~100 TOPS of edge AI compute, fully dedicated to in cabin experiences (vs. cloud-based today). A central pillar of the bull case for RIVN
+is its ability to become a technology supplier to the auto market, which it has already demonstrated with its VW JV, but could extend to its RAP1 and autonomy offerings
+with other OEMs.
 
 4) Rivian Unified Intelligence and Virtual Assistant. Rivian also launched Rivian Unified Intelligence (RUI), a multi-modal and multi-LLM data foundation integrated
 across the company's full suite of operations, from the assembly line, to service infrastructure, to predictive maintenance. They unveiled the Rivian Assistant, a
