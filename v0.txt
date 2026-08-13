@@ -64,16 +64,16 @@ $12 PT reflects the SOTP of our DCF-derived Automotive and Software & Services s
 
 Automotive: $5/share - Assumes ~283k units in 2030, a 24% revenue CAGR (2025-2040), a ~6% exit EBIT margin and a 0% discount to the DCF.
 Software & Services: $5/share - Assumes ~775k/9.2mn fleet in 2030/2040, $129 blended Monthly ARPU (2040), 16% revenue CAGR (2025-2040), 66% discount
-Risks to Upside
 
+Risks to Upside
 Higher installed base, attach rate, RPU on S&S
 Vertical integration leads to lower cost structure
 Increased penetration, new plants, capacity expansion
 Market share gains
 More EDV orders from AMZN
 More strategic partnerships/tech licensing
-Risks to Downside
 
+Risks to Downside
 Market does not ascribe value to software biz
 Capital raises leads to dilution
 Execution mishaps
