@@ -5,10 +5,16 @@ December 12, 2025 02:57 AM GMT
 
 ---
 
+--- Summary ---
+RIVN ends off 2025 with strongly with margins exceeding expectations across both Auto and Software and Services.
+Delivery guide unsurprisingly came in better than MSe, however, we wait for commentary on model mix (R2 vs. R1) and
+visibility into demand given uncertainty post tax credit phase out and late-2026 Gen 3 autonomy integration, which we
+believe is a near-term risk to demand.
 RIVN is developing a suite of hardware and software offerings to remain competitive in an Auto 2.0 world.
 However, several risks remain around demand, potentially limiting data capture needed to reach higher levels
 of autonomy, and thus its path to profitability, driving our UW rating and $12 PT.
 
+--- AI & Autonomy Section ---
 Key takeaways
 Rivian's Gen 3 hardware architecture will launch in late 2026, featuring a multi-modal sensor suite with eleven cameras, five radars, and one LiDAR.
 Rivian's new in-house custom silicon chip, RAP1, will support its Gen 3 Autonomy Computer, offering 4x peak performance and 2.5x power efficiency over Gen 2.
@@ -62,8 +68,8 @@ compete in an Auto 2.0 world, the aforementioned risks drive our UW rating and $
 
 $12 PT reflects the SOTP of our DCF-derived Automotive and Software & Services segments. At our PT, we value each segment as follows:
 
-Automotive: $5/share - Assumes ~283k units in 2030, a 24% revenue CAGR (2025-2040), a ~6% exit EBIT margin and a 0% discount to the DCF.
-Software & Services: $5/share - Assumes ~775k/9.2mn fleet in 2030/2040, $129 blended Monthly ARPU (2040), 16% revenue CAGR (2025-2040), 66% discount
+Automotive: $5/share - Assumes ~284k units in 2030, a 24% revenue CAGR (2025-2040), a ~6% exit EBIT margin and a 0% discount to the DCF.
+Software & Services: $5/share - Assumes ~780k/9.3mn fleet in 2030/2040, $129 blended Monthly ARPU (2040), 16% revenue CAGR (2025-2040), 66% discount
 
 Risks to Upside
 Higher installed base, attach rate, RPU on S&S
